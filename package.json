@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "",
   "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bluespess/tgstation-remake.git"
+  },
+  "homepage": "https://ss13.io",
   "dependencies": {
     "bluespess": "0.3.0",
     "cson-parser": "^3.0.0",
