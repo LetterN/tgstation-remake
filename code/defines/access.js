@@ -61,7 +61,7 @@ const access_types = {
 
 	//Security
 
-	"security": {name: "Security", group: "station"},
+	"security": {"name": "Security", "group": "station"},
 	"brig": {"name":"Brig","group":"station"},
 	"holding_cells": {"name":"Holding Cells","group":"station"},
 	"armory": {"name":"Armory","group":"station"},
